@@ -1,0 +1,9 @@
+Variables: son datos creados en un programa, que pueden ser de diferente tipo, por ejemplo: letras, numeros.
+
+Strings: son datos que pueden contener numeros y/o letras.
+
+Funciones (argumentos, return): es un conjunto de instrucciones o comandos para procesar o ejecutar una formula, se pueden enviar argumentos y recibir resultados.
+
+Declaraciones if: es una instruccion de programacion para evaluar si cumple o no con una determinada condicion (ej: si es blanco entonces x).
+
+Valores booleanos (true, false): determina si una condicion es cierta o falsa (ej: si es blanco entonces es cierto sino falso).
