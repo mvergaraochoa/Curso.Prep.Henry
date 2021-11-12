@@ -1,0 +1,7 @@
+for: se utiliza para ejecutar varias veces un conjunto de instrucciones hasta un limite definido, por ej: sume desde 1 hasta 10
+
+&&: es un operador logico "y", por ejemplo: si 3 es mayor a 2 'y' Maria es mujer....Tienen que cumplirse ambas condiciones para que sea cierta.
+
+||: es un operador logico "o", por ejemplo: si 3 es mayor a 2 'o' Maria es mujer.... tiene que darse una de las dos condiciones para continuar.
+
+!: es la desigualdad entre elementos, por ejemplo: si edad no es igual 25.
