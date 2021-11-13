@@ -1,0 +1,1 @@
+Array: es una secuencia de elementos o datos en una tabla, ej: "juan, Pedro, Martin".
